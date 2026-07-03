@@ -1,6 +1,8 @@
 
 <!-- Hero / Title -->
-# Hi there 👋 I'm Praveen
+
+# Welcome to my git-hub!
+# I'm Praveen Kumar Naik
 
 **Full‑stack Software Engineer — React, Node.js, Java, Python.**
 
