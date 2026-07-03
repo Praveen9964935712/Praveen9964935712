@@ -4,7 +4,7 @@
 # Welcome to my git-hub!
 # I'm Praveen Kumar Naik
 
-**Java FullStack Engineer — Java, React, Restful APIs, AWS .**
+**Java Full Stack Engineer — Java, React, Restful APIs, AWS .**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/praveen-kumar-naik-91b31b31a) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:praveenkumarnaik14@gmail.com) [![Resume](https://img.shields.io/badge/Resume-PDF-0e76a8?logo=adobe&style=flat-square)](https://drive.google.com/file/d/1FU-eMtHJ5xB72Xk6ulphdB_ZzlXEK-BR/view?usp=sharing)
 
