@@ -1,9 +1,82 @@
+
+<!-- Hero / Title -->
 # Hi there 👋 I'm Praveen
+
+**Full‑stack Software Engineer — React, Node.js, Java, Python.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/praveen-kumar-naik-91b31b31a) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:praveenkumarnaik14@gmail.com) [![Resume](https://img.shields.io/badge/Resume-PDF-0e76a8?logo=adobe&style=flat-square)](https://drive.google.com/file/d/1FU-eMtHJ5xB72Xk6ulphdB_ZzlXEK-BR/view?usp=sharing)
 
+---
+
 ## About Me
-I am a Software Engineer and Full Stack Developer focused on building scalable web applications and secure RESTful APIs. I work primarily with Java, JavaScript and Python and build full-stack projects using React on the frontend and Node.js/Express or Flask on the backend. I enjoy building data-driven, responsive UIs and reliable backend services.
+
+I build user-focused web applications and RESTful APIs with a focus on maintainability and performance. My typical stack is React + Tailwind on the frontend, Node.js/Express or Flask on the backend, and MySQL/MongoDB for persistence.
+
+**Quick facts:** Java · JavaScript · Python · React · Node.js · Tailwind · MySQL · MongoDB · JWT Auth · REST APIs
+
+---
+
+## Badges & Stats
+
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen9964935712&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen9964935712&layout=compact&theme=dark)
+
+### Skill badges
+
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+
+---
+
+## Pinned Projects & Project Cards
+
+Below are project cards for the repositories you'd like highlighted. These are linked to your GitHub repos — if any repo URL differs, tell me and I will update them.
+
+### placement-readiness-platform
+
+- Repository: https://github.com/Praveen9964935712/placement-readiness-platform
+- Description: Full‑stack placement readiness platform with student and company management, assessment tracking, and recommendation features.
+- Tech: React, Node.js, Express, MySQL/MongoDB, JWT
+- Demo: (add live demo URL if deployed)
+
+**Highlights**
+
+- Student and company CRUD + secure auth
+- Readiness scoring and recommendation engine
+- Excel import/export and seed scripts
+
+---
+
+### frontend
+
+- Repository: https://github.com/Praveen9964935712/frontend
+- Description: Frontend application for the placement readiness platform — React, Tailwind CSS, and Vite.
+- Tech: React, Tailwind CSS, Vite
+- Demo: (add live demo URL if deployed)
+
+**Highlights**
+
+- Responsive UI components (dashboard, student table, charts)
+- Protected routes and role-based views
+
+---
+
+### backend
+
+- Repository: https://github.com/Praveen9964935712/backend
+- Description: Backend API and services powering the placement readiness platform.
+- Tech: Node.js, Express, MySQL/MongoDB
+- Demo: (API base URL if deployed)
+
+**Highlights**
+
+- REST API controllers for auth, students, companies
+- Services for recommendation and readiness calculations
+- Seed data and CSV/Excel upload routes
+
+---
+
+If you want screenshots for any card, upload the images into this repo and I will embed them in the cards.
 
 ## Skills & Technologies
 
@@ -36,18 +109,9 @@ Here are suggested project links based on the workspace folders. If your actual 
 
 Add or replace up to 6 repos you want pinned on your profile.
 
-## GitHub Profile Tips
 
-1. Create a repository named exactly like your GitHub username (for example `Praveen9964935712`).
-2. Add this `README.md` as the repository README and push to the `main` branch - GitHub will display it on your profile page.
-3. Use the GitHub repo "Pinned" feature to pin 6-8 representative projects.
-4. Add GitHub Profile Stats and Top Languages cards (optional). Replace `YOUR_GITHUB_USERNAME` in the URLs below with your username.
 
-Profile stats (live)
 
-```
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen9964935712&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen9964935712&layout=compact&theme=dark)
 ```
 
 ## Badges
