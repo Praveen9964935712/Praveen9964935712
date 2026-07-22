@@ -14,7 +14,7 @@
 
 I build user-focused web applications and RESTful APIs with a focus on maintainability and performance. My typical stack is React + Tailwind on the frontend, Node.js/Express or Flask on the backend, and MySQL/MongoDB for persistence.
 
-**Quick facts:** Java · JavaScript · Python · React · Node.js · Tailwind · MySQL · MongoDB · JWT Auth · REST APIs
+**Quick facts:** Java · JavaScript · Python · React · Node.js · Tailwind · MySQL · MongoDB · JWT Auth · REST APIs . Database
 
 ## Skills & Technologies
 
