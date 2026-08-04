@@ -35,6 +35,6 @@ I build user-focused web applications and RESTful APIs with a focus on maintaina
 
 - LinkedIn: https://www.linkedin.com/in/praveen-kumar-naik-91b31b31a
 - Email: praveenkumarnaik14@gmail.com
-- Resume: https://drive.google.com/file/d/1FU-eMtHJ5xB72Xk6ulphdB_ZzlXEK-BR/view?usp=sharing
+- Resume:https://drive.google.com/file/d/1FVghXOwH0-mVw5NdFNIj30WtqsQ9xfAl/view?usp=sharing
 
 
